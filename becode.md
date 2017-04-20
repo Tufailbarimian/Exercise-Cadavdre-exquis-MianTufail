@@ -32,7 +32,7 @@
 
 ---
 <a name="notregroupe"/>    
-# BECODE ET SES APPRENANT DU SITE ANDERLECHT 
+# BeCODE ET SES APPRENANT DU SITE ANDERLECHT 
 
 Notre groupe est composé de quatre personnes: Hania, Bari, Adrian, et Mehdi
 1. HANIA 
@@ -59,6 +59,6 @@ Notre groupe est composé de quatre personnes: Hania, Bari, Adrian, et Mehdi
 -  communiquer et échanger.
 -  garder sa motivation intacte malgrès les embuches et les diffucltés
 -  savoir travailler en groupe et savoir être autonome.
-- avoir un espace de repos ( transate, billard, ...).
+-  avoir un espace de repos ( transate, billard, ...).
 
 ---
