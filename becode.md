@@ -26,6 +26,7 @@
 
 ---
 <a name="Becodeaded"/>
+
 #### **BeCode a Anderlecht - Endroit d'apprentissage**
 #### Endroit de 22.000m², une ancienne usine désinfectée qui est ouverte pour les nouvelles entreprises "Start-Up". Etant les    premiers a s'installer dans cet endroit. On occupe un espace de 295m². Une classe ou tout simplement un endroit de reunion pour l'apprentissage. En plus de nous il y a d'autre entreprise qui vont s'installer ici. Par exemple, un skatepark, le Fablab, des salles de cinema et plutard des nouvelles classes de BeCode.
 
