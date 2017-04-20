@@ -45,7 +45,7 @@ Le groupe est composé de Hania, Bari, Adrian, et Mehdi.
       
 2 BARI  
   * profil de bari :
-  <img src="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-1.amazonaws.com%2Fcontattafiles%2Ftnt14094%2FYqfEiKBQubmyiNS%2F2.jpeg&key=eddaf8cc428f48e195e0b024e3f55eb0" alt="Drawing" style="width: 100px;height: 100px"/>
+  <img src="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-1.amazonaws.com%2Fcontattafiles%2Ftnt14094%2FYqfEiKBQubmyiNS%2F2.jpeg&key=eddaf8cc428f48e195e0b024e3f55eb0" alt="Drawing" style="width: 50px;"/>
     Hi My name is Tufail Bari Mian,i am a student at becode anderlecht,My aims and obectives at becode are as under:
     - To Understand the importance of the web as a medium of communication. 
     - To Understand the principles of creating an effective web page, including an in-depth consideration of information architecture.
