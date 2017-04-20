@@ -2,8 +2,8 @@
 #### **Sommaire**
 
 [BeCode C'est quoi?](#Becodecq)  
-[BeCode a Anderlecht - Endroit d'apprentissage](#Becodeaded)      
-[BeCode a Anderlecht - Le premier groupe d'apprenants](#Becodeadlpga)     
+[BeCode à Anderlecht - Endroit d'apprentissage](#Becodeaded)      
+[BeCode à Anderlecht - Le premier groupe d'apprenants](#Becodeadlpga)     
 [Notre Groupe](#notregroupe)     
 [Environement de travail](#environement)      
 
