@@ -44,9 +44,7 @@ Le groupe est composé de Hania, Bari, Adrian, et Mehdi.
       conçus et fabriqués maison. ce site sera tenu et géré par moi.
       
 2 BARI  
-  <img src="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-1.amazonaws.com%2Fcontattafiles%2Ftnt14094%2FYqfEiKBQubmyiNS%2F2.jpeg&key=eddaf8cc428f48e195e0b024e3f55eb0" alt="Drawing" style="width: 50px;"/>
-  
-  * profil de bari :
+  * profil de Bari :
       Hi My name is Tufail Bari Mian,i am a student at becode anderlecht,My aims and obectives at becode are as under:
       - To Understand the importance of the web as a medium of communication. 
       - To Understand the principles of creating an effective web page, including an in-depth consideration of information architecture.
@@ -58,7 +56,11 @@ Le groupe est composé de Hania, Bari, Adrian, et Mehdi.
       - To Implement and understand how to interpret basic web analytics.
 
 3 ADRIAN  
-4 Mehdi   
+  * profil d'Adrian :
+  	  Je m'appelle Zochowski Adrian et j'ai 21 ans. Depuis 8 a 10 ans, je me suis interesse au codage et quand je dit codage je comprend par cela beaucoup de langue informatique differente. Par exemple, C++, XML, LUA, PHP, HTML, CSS, C#, Javascript.
+  	  J'aime beaucoup faire des travaux physique et en plus de ca ma curiosite me permet d'avance. Pourquoi BeCode et pas une ecole normale? Pour moi BeCode signifie un nouveau style d'apprentissage qui permet de evoluer plus facilement je m'attends a beaucoup de travaille mais je suis pret pour l'effectuer.
+
+4 MEDHI  
 
 ---   
 <a name="environement"/>
