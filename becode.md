@@ -1,28 +1,23 @@
 
 #### **Sommaire**
 
-[BeCode C'est quoi?](#Becodecq)
-
-[BeCode a Anderlecht - Endroit d'apprentissage](#Becodeaded)
-
-[BeCode a Anderlecht - Le premier groupe d'apprenants](#Becodeadlpga)
-
-[Notre Groupe](#notregroupe)
-
-[Environement de travail](#environement)
+[BeCode C'est quoi?](#Becodecq) 
+[BeCode a Anderlecht - Endroit d'apprentissage](#Becodeaded) 
+[BeCode a Anderlecht - Le premier groupe d'apprenants](#Becodeadlpga) 
+[Notre Groupe](#notregroupe) 
+[Environement de travail](#environement) 
 
 ---
 <a name="Becodecq"/>
 
-# BECODE 
-
+# **                  BECODE **
 #### n'est pas une école ordinaire, elle est fondée par des personnes passionées 
-#### pour des personnes passionnées des nouvelles téchnologies.
-#### BECODE by SIMPLON est une methodologie solide basée sur la motivation et la soif d'apprendre.
-#### Un des principes de BECODE est l'esprit de groupe et de solidarité entre les membres.
-#### BECODE ANDERLECKT est un groupe de 21 personnes, issues de diferents horizons, 
-#### âgées de vingt à cinqante cinq ans,dont six femmes.
-### BECODE ANDERLECKT est coachés par deux formateurs: Eric et Emilie.
+    pour des personnes passionnées des nouvelles téchnologies.
+    BECODE by SIMPLON est une methodologie solide basée sur la motivation et la soif d'apprendre.
+    Un des principes de BECODE est l'esprit de groupe et de solidarité entre les membres.
+   BECODE ANDERLECKT est un groupe de 21 personnes, issues de diferents horizons, 
+ âgées de vingt à cinqante cinq ans,dont six femmes.
+ BECODE ANDERLECKT est coachés par deux formateurs: Eric et Emilie.
 
 ---
 <a name="Becodeaded"/>
