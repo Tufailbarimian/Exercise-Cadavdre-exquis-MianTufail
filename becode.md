@@ -1,5 +1,5 @@
 
-####**Sommaire**
+#### **Sommaire**
 [BeCode C'est quoi?](#Becodecq)
 [BeCode a Anderlecht - Endroit d'apprentissage](#Becodeaded)
 [BeCode a Anderlecht - Le premier groupe d'apprenants](#Becodeadlpga)
@@ -8,7 +8,8 @@
 
 ---
 <a name="Becodecq"/>
-# BECODE #### n'est pas une école ordinaire, elle est fondée par des personnes passionées 
+# BECODE 
+#### n'est pas une école ordinaire, elle est fondée par des personnes passionées 
 #### pour des personnes passionnées des nouvelles téchnologies.
 #### BECODE by SIMPLON est une methodologie solide basée sur la motivation et la soif d'apprendre.
 #### Un des principes de BECODE est l'esprit de groupe et de solidarité entre les membres.
@@ -18,7 +19,7 @@
 
 ---
 <a name="Becodeaded"/>
-####**BeCode a Anderlecht - Endroit d'apprentissage**
+#### **BeCode a Anderlecht - Endroit d'apprentissage**
 Endroit de 22.000m², une ancienne usine désinfectée qui est ouverte pour les nouvelles entreprises "Start-Up". Etant les premiers a s'installer dans cet endroit. On occupe un espace de 295m². Une classe ou tout simplement un endroit de reunion pour l'apprentissage. En plus de nous il y a d'autre entreprise qui vont s'installer ici. Par exemple, un skatepark, le Fablab, des salles de cinema et plutard des nouvelles classes de BeCode.
 
 ---
