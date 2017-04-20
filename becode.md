@@ -8,6 +8,7 @@
 
 ---
 <a name="Becodecq"/>
+
 # BECODE 
 
 #### n'est pas une école ordinaire, elle est fondée par des personnes passionées 
