@@ -38,7 +38,7 @@ Le groupe est composé de vingt et une personnes, dont six femmes. Dès le premi
 Le groupe est composé de Hania, Bari, Adrian, et Mehdi.
 
 1 HANIA   
-  * profil de hania:  
+  * profile de hania:  
       Je suis une personne ambutieuse, aimant les chalenges, issue du domaine network et télécoms.
       je m'oriente vers le devellopement, car j'ai un projet qui me tient à coeur: travailler avec ma fille
       diplomée en diététique et nutrition. je souhaite acquérir les compétences pour faire un site ecommerce, 
@@ -46,7 +46,7 @@ Le groupe est composé de Hania, Bari, Adrian, et Mehdi.
       conçus et fabriqués maison. ce site sera tenu et géré par moi.
       
 2 BARI  
-  * profil de Bari :
+  * profile de Bari :
       Hi My name is Tufail Bari Mian,i am a student at becode anderlecht,My aims and obectives at becode are as under:
       - To Understand the importance of the web as a medium of communication. 
       - To Understand the principles of creating an effective web page, including an in-depth consideration of information architecture.
@@ -58,9 +58,10 @@ Le groupe est composé de Hania, Bari, Adrian, et Mehdi.
       - To Implement and understand how to interpret basic web analytics.
 
 3 ADRIAN  
-  * profil d'Adrian :
-  	  Je m'appelle Zochowski Adrian et j'ai 21 ans. Depuis 8 a 10 ans, je me suis interesse au codage et quand je dit codage je comprend par cela beaucoup de langue informatique differente. Par exemple, C++, XML, LUA, PHP, HTML, CSS, C#, Javascript.
-  	  J'aime beaucoup faire des travaux physique et en plus de ca ma curiosite me permet d'avance. Pourquoi BeCode et pas une ecole normale? Pour moi BeCode signifie un nouveau style d'apprentissage qui permet de evoluer plus facilement je m'attends a beaucoup de travaille mais je suis pret pour l'effectuer.
+  * profile d'Adrian :
+  	  Je m'appelle Zochowski Adrian et j'ai 21 ans. Depuis 8 a 10 ans, je m'interesse au codage et quand je dis codage je     comprends par cela beaucoup de languages informatiques differents. Par exemple, C++, XML, LUA, PHP, HTML, CSS, C#, Javascript.
+  	  J'aime beaucoup faire des travaux physiques£. Ma curiosité me permet d'avancer.
+      Pourquoi BeCode et pas une école normale? Pour moi, BeCode signifie un nouveau style d'apprentissage qui permet d'évoluer plus facilement. je m'attends à beaucoup de travail mais je suis prêt pour le chalenge.
 
 4 MEDHI  
 
