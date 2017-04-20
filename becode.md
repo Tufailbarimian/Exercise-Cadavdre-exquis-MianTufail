@@ -14,7 +14,7 @@
 Ce n'est pas une école ordinaire, elle est fondée par des personnes passionées pour des personnes passionnées des nouvelles téchnologies.  
 BECODE by SIMPLON est une methodologie solide basée sur la motivation et la soif d'apprendre.  
 Un des principes de BECODE est l'esprit de groupe et de solidarité entre les membres.  
-BECODE ANDERLECKT est un groupe de 21 personnes, issues de diferents horizons, âgées de vingt à cinqante cinq ans,dont six femmes.  
+BECODE ANDERLECKT est un groupe de 21 personnes, issues de diférents horizons, âgées de vingt à cinqante cinq ans,dont six femmes.  
 BECODE ANDERLECKT est coachés par deux formateurs: Eric et Emilie.  
 
 ---  
@@ -27,7 +27,9 @@ Endroit de 22.000m², une ancienne usine qui est ouverte pour les nouvelles entr
 ---  
 <a name="Becodeadlpga"/>  
 
-## BeCode a Anderlecht - Le premier groupe d'apprenants   
+## BeCode a Anderlecht - Le premier groupe d'apprenants    
+Le groupe est composé de vingt et une personnes, dont six femmes. Dès le premier jour, ce groupe forme une seule entité très soudée. les Becodeurs d'Anderleckt occupe les lieux dans une synergie hors du commun.
+ ![photo du BeCode Anderleckt](
   
 ---  
 <a name="notregroupe"/>
