@@ -9,6 +9,7 @@
 ---
 <a name="Becodecq"/>
 # BECODE 
+
 #### n'est pas une école ordinaire, elle est fondée par des personnes passionées 
 #### pour des personnes passionnées des nouvelles téchnologies.
 #### BECODE by SIMPLON est une methodologie solide basée sur la motivation et la soif d'apprendre.
