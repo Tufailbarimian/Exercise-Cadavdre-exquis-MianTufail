@@ -47,6 +47,7 @@ Notre groupe est composé de quatre personnes: Hania, Bari, Adrian, et Mehdi
 --- 
 <a name="environement"/>         
 # ENVIRONEMENT DE TRAVAIL IDEAL
+
 -  endroit agréable, avec pourquoi pas un peu de verdure.
 -  pas trop de stress.
 -  esprit d'équipe et de solidarité.
