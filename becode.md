@@ -12,6 +12,7 @@
 
 # **BECODE **
 #### BeCODE n'est pas une école ordinaire, elle est fondée par des personnes passionées 
+
     pour des personnes passionnées des nouvelles téchnologies.
     BECODE by SIMPLON est une methodologie solide basée sur la motivation et la soif d'apprendre.
     Un des principes de BECODE est l'esprit de groupe et de solidarité entre les membres.
@@ -32,6 +33,7 @@
 ---
 <a name="notregroupe"/>    
 # BECODE ET SES APPRENANT DU SITE ANDERLECHT 
+
 Notre groupe est composé de quatre personnes: Hania, Bari, Adrian, et Mehdi
 1. HANIA 
   * profil de hania:
@@ -40,6 +42,7 @@ Notre groupe est composé de quatre personnes: Hania, Bari, Adrian, et Mehdi
       diplomée en diététique et nutrition. je souhaite acquérir les compétences pour faire un site ecommerce, 
       où elle peut faire des consultations diététique en ligne ce site sera évolué pour la vente des produits diététique 
       conçus et fabriqués maison. ce site sera tenu et géré par moi. 
+      
 2. BARI 
 3. ADRIAN 
 4. Mehdi  
