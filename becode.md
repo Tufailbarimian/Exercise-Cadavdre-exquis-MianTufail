@@ -33,16 +33,16 @@
 <a name="notregroupe"/>    
 # BECODE ET SES APPRENANT DU SITE ANDERLECHT 
 Notre groupe est composé de quatre personnes: Hania, Bari, Adrian, et Mehdi
-1 HANIA 
+1. HANIA 
   * profil de hania:
       Je suis une personne ambutieuse, aimant les chalenges, issue du domaine network et télécoms.
       je m'oriente vers le developpement, car j'ai un projet qui me tient à coeur: travailler avec ma fille
       diplomée en diététique et nutrition. je souhaite acquérir les compétences pour faire un site ecommerce, 
       où elle peut faire des consultations diététique en ligne ce site sera évolué pour la vente des produits diététique 
       conçus et fabriqués maison. ce site sera tenu et géré par moi. 
-2 BARI 
-3 ADRIAN 
-4 Mehdi  
+2. BARI 
+3. ADRIAN 
+4. Mehdi  
 
 --- 
 <a name="environement"/>         
@@ -56,3 +56,5 @@ Notre groupe est composé de quatre personnes: Hania, Bari, Adrian, et Mehdi
 -  garder sa motivation intacte malgrès les embuches et les diffucltés
 -  savoir travailler en groupe et savoir être autonome.
 - avoir un espace de repos ( transate, billard, ...).
+
+---
