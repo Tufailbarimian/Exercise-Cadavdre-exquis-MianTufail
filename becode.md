@@ -10,7 +10,7 @@
 ---
 <a name="Becodecq"/>
 
-# **                  BECODE **
+# **BECODE **
 #### BeCODE n'est pas une école ordinaire, elle est fondée par des personnes passionées 
     pour des personnes passionnées des nouvelles téchnologies.
     BECODE by SIMPLON est une methodologie solide basée sur la motivation et la soif d'apprendre.
@@ -26,11 +26,11 @@
 #### Le site d'Anderleckt est endroit de 22.000m², une ancienne usine désinfectée qui est ouverte pour les nouvelles entreprises "Start-Up". Etant les    premiers a s'installer dans cet endroit. On occupe un espace de 295m². Une classe ou tout simplement un endroit de reunion pour l'apprentissage. En plus de nous il y a d'autre entreprise qui vont s'installer ici. Par exemple, un skatepark, le Fablab, des salles de cinema et plutard des nouvelles classes de BeCode.
 
 ---
-<a name="Becodeadlpga"/>     
+<a name="Becodeadlpga"/>         
 #### **BeCode a Anderlecht - Le premier groupe d'apprenants**
 
 ---
-<a name="notregroupe"/>  
+<a name="notregroupe"/>   
 # BECODE ET SES APPRENANT DU SITE ANDERLECHT 
 Notre groupe est composé de quatre personnes: Hania, Bari, Adrian, et Mehdi
 1 HANIA 
@@ -45,7 +45,7 @@ Notre groupe est composé de quatre personnes: Hania, Bari, Adrian, et Mehdi
 4 Mehdi 
 
 --- 
-<a name="environement"/>     
+<a name="environement"/>         
 # ENVIRONEMENT DE TRAVAIL IDEAL
 -  endroit agréable, avec pourquoi pas un peu de verdure.
 -  pas trop de stress.
