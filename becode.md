@@ -22,15 +22,15 @@
 ---
 <a name="Becodeaded"/>   
 
-#### **BeCode a Anderlecht - Endroit d'apprentissage**
+#### **BeCode a Anderlecht - Endroit d'apprentissage**   
 #### Le site d'Anderleckt est endroit de 22.000m², une ancienne usine désinfectée qui est ouverte pour les nouvelles entreprises "Start-Up". Etant les    premiers a s'installer dans cet endroit. On occupe un espace de 295m². Une classe ou tout simplement un endroit de reunion pour l'apprentissage. En plus de nous il y a d'autre entreprise qui vont s'installer ici. Par exemple, un skatepark, le Fablab, des salles de cinema et plutard des nouvelles classes de BeCode.
 
 ---
 <a name="Becodeadlpga"/>         
-#### **BeCode a Anderlecht - Le premier groupe d'apprenants**
+#### **BeCode à Anderlecht - Le premier groupe d'apprenants**
 
 ---
-<a name="notregroupe"/>   
+<a name="notregroupe"/>    
 # BECODE ET SES APPRENANT DU SITE ANDERLECHT 
 Notre groupe est composé de quatre personnes: Hania, Bari, Adrian, et Mehdi
 1 HANIA 
@@ -39,10 +39,10 @@ Notre groupe est composé de quatre personnes: Hania, Bari, Adrian, et Mehdi
       je m'oriente vers le developpement, car j'ai un projet qui me tient à coeur: travailler avec ma fille
       diplomée en diététique et nutrition. je souhaite acquérir les compétences pour faire un site ecommerce, 
       où elle peut faire des consultations diététique en ligne ce site sera évolué pour la vente des produits diététique 
-      conçus et fabriqués maison. ce site sera tenu et géré par moi.
-2 BARI
-3 ADRIAN
-4 Mehdi 
+      conçus et fabriqués maison. ce site sera tenu et géré par moi. 
+2 BARI 
+3 ADRIAN 
+4 Mehdi  
 
 --- 
 <a name="environement"/>         
