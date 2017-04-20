@@ -14,8 +14,8 @@
 Ce n'est pas une école ordinaire, elle est fondée par des personnes passionées pour des personnes passionnées des nouvelles téchnologies.  
 BECODE by SIMPLON est une methodologie solide basée sur la motivation et la soif d'apprendre.  
 Un des principes de BECODE est l'esprit de groupe et de solidarité entre les membres.  
-BECODE ANDERLECKT est un groupe de 21 personnes, issues de diférents horizons, âgées de vingt à cinqante cinq ans,dont six femmes.  
-BECODE ANDERLECKT est coachés par deux formateurs: Eric et Emilie.  
+BECODE ANDERLECKT est un groupe de 21 personnes, issues de diférents horizons, âgées de vingt à cinqante cinq ans,dont sept femmes.  
+BECODE ANDERLECKT est coaché par deux formateurs: Eric et Emilie.  
 
 ---  
 <a name="Becodeaded"/>
@@ -28,7 +28,7 @@ Endroit de 22.000m², une ancienne usine qui est ouverte pour les nouvelles entr
 <a name="Becodeadlpga"/>  
 
 ## BeCode a Anderlecht - Le premier groupe d'apprenants    
-Le groupe est composé de vingt et une personnes, dont six femmes. Dès le premier jour, ce groupe forme une seule entité très soudée. les Becodeurs d'Anderleckt occupe les lieux dans une synergie hors du commun.
+Le groupe est composé de vingt et une personnes, dont sept femmes. Dès le premier jour, ce groupe forme une seule entité très soudée. les Becodeurs d'Anderleckt occupe les lieux dans une synergie hors du commun.
  ![photo du BeCode Anderleckt](
   
 ---  
@@ -60,8 +60,8 @@ Le groupe est composé de Hania, Bari, Adrian, et Mehdi.
 3 ADRIAN  
   * profile d'Adrian :
   	  Je m'appelle Zochowski Adrian et j'ai 21 ans. Depuis 8 a 10 ans, je m'interesse au codage et quand je dis codage je     comprends par cela beaucoup de languages informatiques differents. Par exemple, C++, XML, LUA, PHP, HTML, CSS, C#, Javascript.
-  	  J'aime beaucoup faire des travaux physiques£. Ma curiosité me permet d'avancer.
-      Pourquoi BeCode et pas une école normale? Pour moi, BeCode signifie un nouveau style d'apprentissage qui permet d'évoluer plus facilement. je m'attends à beaucoup de travail mais je suis prêt pour le chalenge.
+  	  J'aime beaucoup faire des travaux physiques. Ma curiosité me permet d'avancer dans ce que j'entreprends.
+      Pourquoi BeCode et pas une école normale ? BeCode signifie, pour moi, un nouveau style d'apprentissage qui me permet d'évoluer plus facilement. je m'attends à beaucoup de travail mais je suis prêt pour le chalenge.
 
 4 MEDHI  
 
