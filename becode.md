@@ -36,7 +36,7 @@
 
 Notre groupe est composé de quatre personnes: Hania, Bari, Adrian, et Mehdi
 1. HANIA 
-  * profil de hania:
+  * profile de hania:
       Je suis une personne ambutieuse, aimant les chalenges, issue du domaine network et télécoms.
       je m'oriente vers le developpement, car j'ai un projet qui me tient à coeur: travailler avec ma fille
       diplomée en diététique et nutrition. je souhaite acquérir les compétences pour faire un site ecommerce, 
