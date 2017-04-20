@@ -64,6 +64,7 @@ Le groupe est composé de Hania, Bari, Adrian, et Mehdi.
       Pourquoi BeCode et pas une école normale? Pour moi, BeCode signifie un nouveau style d'apprentissage qui permet d'évoluer plus facilement. je m'attends à beaucoup de travail mais je suis prêt pour le chalenge.
 
 4 MEDHI  
+zdezdrdezfdizefdz
 
 ---   
 <a name="environement"/>
