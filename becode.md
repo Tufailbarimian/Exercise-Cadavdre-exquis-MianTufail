@@ -11,7 +11,7 @@
 <a name="Becodecq"/>
 
 # **                  BECODE **
-#### n'est pas une école ordinaire, elle est fondée par des personnes passionées 
+#### BeCODE n'est pas une école ordinaire, elle est fondée par des personnes passionées 
     pour des personnes passionnées des nouvelles téchnologies.
     BECODE by SIMPLON est une methodologie solide basée sur la motivation et la soif d'apprendre.
     Un des principes de BECODE est l'esprit de groupe et de solidarité entre les membres.
@@ -20,23 +20,23 @@
     BECODE ANDERLECKT est coachés par deux formateurs: Eric et Emilie.
 
 ---
-<a name="Becodeaded"/>
+<a name="Becodeaded"/>   
 
 #### **BeCode a Anderlecht - Endroit d'apprentissage**
-#### Endroit de 22.000m², une ancienne usine désinfectée qui est ouverte pour les nouvelles entreprises "Start-Up". Etant les    premiers a s'installer dans cet endroit. On occupe un espace de 295m². Une classe ou tout simplement un endroit de reunion pour l'apprentissage. En plus de nous il y a d'autre entreprise qui vont s'installer ici. Par exemple, un skatepark, le Fablab, des salles de cinema et plutard des nouvelles classes de BeCode.
+#### Le site d'Anderleckt est endroit de 22.000m², une ancienne usine désinfectée qui est ouverte pour les nouvelles entreprises "Start-Up". Etant les    premiers a s'installer dans cet endroit. On occupe un espace de 295m². Une classe ou tout simplement un endroit de reunion pour l'apprentissage. En plus de nous il y a d'autre entreprise qui vont s'installer ici. Par exemple, un skatepark, le Fablab, des salles de cinema et plutard des nouvelles classes de BeCode.
 
 ---
-<a name="Becodeadlpga"/>
+<a name="Becodeadlpga"/>     
 #### **BeCode a Anderlecht - Le premier groupe d'apprenants**
 
 ---
-<a name="notregroupe"/>
+<a name="notregroupe"/>  
 # BECODE ET SES APPRENANT DU SITE ANDERLECHT 
-le groupe est composé de Hania, Bari, Adrian, et Mehdi
+Notre groupe est composé de quatre personnes: Hania, Bari, Adrian, et Mehdi
 1 HANIA 
   * profil de hania:
       Je suis une personne ambutieuse, aimant les chalenges, issue du domaine network et télécoms.
-      je m'oriente vers le devellopement, car j'ai un projet qui me tient à coeur: travailler avec ma fille
+      je m'oriente vers le developpement, car j'ai un projet qui me tient à coeur: travailler avec ma fille
       diplomée en diététique et nutrition. je souhaite acquérir les compétences pour faire un site ecommerce, 
       où elle peut faire des consultations diététique en ligne ce site sera évolué pour la vente des produits diététique 
       conçus et fabriqués maison. ce site sera tenu et géré par moi.
@@ -45,7 +45,7 @@ le groupe est composé de Hania, Bari, Adrian, et Mehdi
 4 Mehdi 
 
 --- 
-<a name="environement"/>
+<a name="environement"/>     
 # ENVIRONEMENT DE TRAVAIL IDEAL
 -  endroit agréable, avec pourquoi pas un peu de verdure.
 -  pas trop de stress.
