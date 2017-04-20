@@ -14,7 +14,7 @@
 Ce n'est pas une école ordinaire, elle est fondée par des personnes passionées pour des personnes passionnées des nouvelles téchnologies.  
 BECODE by SIMPLON est une methodologie solide basée sur la motivation et la soif d'apprendre.  
 Un des principes de BECODE est l'esprit de groupe et de solidarité entre les membres.  
-BECODE ANDERLECKT est un groupe de 21 personnes, issues de diferents horizons, âgées de vingt à cinqante cinq ans,dont six femmes.  
+BECODE ANDERLECKT est un groupe de 21 personnes, issues de diférents horizons, âgées de vingt à cinqante cinq ans,dont six femmes.  
 BECODE ANDERLECKT est coachés par deux formateurs: Eric et Emilie.  
 
 ---  
@@ -27,7 +27,9 @@ Endroit de 22.000m², une ancienne usine qui est ouverte pour les nouvelles entr
 ---  
 <a name="Becodeadlpga"/>  
 
-## BeCode a Anderlecht - Le premier groupe d'apprenants   
+## BeCode a Anderlecht - Le premier groupe d'apprenants    
+Le groupe est composé de vingt et une personnes, dont six femmes. Dès le premier jour, ce groupe forme une seule entité très soudée. les Becodeurs d'Anderleckt occupe les lieux dans une synergie hors du commun.
+ ![photo du BeCode Anderleckt](
   
 ---  
 <a name="notregroupe"/>
@@ -44,18 +46,17 @@ Le groupe est composé de Hania, Bari, Adrian, et Mehdi.
       conçus et fabriqués maison. ce site sera tenu et géré par moi.
       
 2 BARI  
-  <img src="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-1.amazonaws.com%2Fcontattafiles%2Ftnt14094%2FYqfEiKBQubmyiNS%2F2.jpeg&key=eddaf8cc428f48e195e0b024e3f55eb0" alt="Drawing" style="width: 50px;"/>
-  
   * profil de bari :
-      Hi My name is Tufail Bari Mian,i am a student at becode anderlecht,My aims and obectives at becode are as under:
-      - To Understand the importance of the web as a medium of communication. 
-      - To Understand the principles of creating an effective web page, including an in-depth consideration of information architecture.
-      - To Become familiar with graphic design principles that relate to web design and learn how to implement these theories into practice.
-      - To Develop skills in analyzing the usability of a web site.
-      - To Learn the language of the web: HTML and CSS.
-      - To Develop skills in digital imaging (Adobe Photoshop.) 
-      - To Be able to embed social media content into web pages.
-      - To Implement and understand how to interpret basic web analytics.
+    ![Image of bari](https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-1.amazonaws.com%2Fcontattafiles%2Ftnt14094%2FYqfEiKBQubmyiNS%2F2.jpeg&key=eddaf8cc428f48e195e0b024e3f55eb0) ** BARI ** [LINK] (HTTP://www.github.com/Tufailbarimian)
+    Hi My name is Tufail Bari Mian,i am a student at becode anderlecht,My aims and obectives at becode are as under:
+    - To Understand the importance of the web as a medium of communication. 
+    - To Understand the principles of creating an effective web page, including an in-depth consideration of information architecture.
+    - To Become familiar with graphic design principles that relate to web design and learn how to implement these theories into practice.
+    - To Develop skills in analyzing the usability of a web site.
+    - To Learn the language of the web: HTML and CSS.
+    - To Develop skills in digital imaging (Adobe Photoshop.) 
+    - To Be able to embed social media content into web pages.
+    - To Implement and understand how to interpret basic web analytics.
 
 3 ADRIAN  
 4 Mehdi   
