@@ -44,17 +44,18 @@ Le groupe est composé de Hania, Bari, Adrian, et Mehdi.
       conçus et fabriqués maison. ce site sera tenu et géré par moi.
       
 2 BARI  
-  * profil de bari :
   <img src="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-1.amazonaws.com%2Fcontattafiles%2Ftnt14094%2FYqfEiKBQubmyiNS%2F2.jpeg&key=eddaf8cc428f48e195e0b024e3f55eb0" alt="Drawing" style="width: 50px;"/>
-    Hi My name is Tufail Bari Mian,i am a student at becode anderlecht,My aims and obectives at becode are as under:
-    - To Understand the importance of the web as a medium of communication. 
-    - To Understand the principles of creating an effective web page, including an in-depth consideration of information architecture.
-    - To Become familiar with graphic design principles that relate to web design and learn how to implement these theories into practice.
-    - To Develop skills in analyzing the usability of a web site.
-    - To Learn the language of the web: HTML and CSS.
-    - To Develop skills in digital imaging (Adobe Photoshop.) 
-    - To Be able to embed social media content into web pages.
-    - To Implement and understand how to interpret basic web analytics.
+  
+  * profil de bari :
+      Hi My name is Tufail Bari Mian,i am a student at becode anderlecht,My aims and obectives at becode are as under:
+      - To Understand the importance of the web as a medium of communication. 
+      - To Understand the principles of creating an effective web page, including an in-depth consideration of information architecture.
+      - To Become familiar with graphic design principles that relate to web design and learn how to implement these theories into practice.
+      - To Develop skills in analyzing the usability of a web site.
+      - To Learn the language of the web: HTML and CSS.
+      - To Develop skills in digital imaging (Adobe Photoshop.) 
+      - To Be able to embed social media content into web pages.
+      - To Implement and understand how to interpret basic web analytics.
 
 3 ADRIAN  
 4 Mehdi   
