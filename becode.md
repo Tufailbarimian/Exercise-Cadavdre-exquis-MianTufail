@@ -60,4 +60,4 @@ le groupe est composé de Hania, Bari, Adrian, et Mehdi
 -  communiquer et échanger.
 -  garder sa motivation intacte malgrès les embuches et les diffucltés
 -  savoir travailler en groupe et savoir être autonome.
-- avoir un espace de repos ( transate, billard, ...)
+- avoir un espace de repos ( transate, billard, ...).
